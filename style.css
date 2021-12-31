@@ -172,7 +172,7 @@ h2 {
   .clock {
 	position:relative;
 	font-family:monaco,consolas,"courier new",monospace;
-	font-size:2rem;
+	font-size:1.5rem;
 	line-height:1;
 }	
 }
