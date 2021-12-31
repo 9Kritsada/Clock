@@ -167,3 +167,12 @@ h2 {
 	-ms-transform:translate3d(0,0,0) rotateX(0);
 	transform:translate3d(0,0,0) rotateX(0);
 }
+
+@media (max-width: 960px) {
+  .clock {
+	position:relative;
+	font-family:monaco,consolas,"courier new",monospace;
+	font-size:2rem;
+	line-height:1;
+}	
+}
