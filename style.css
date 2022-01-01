@@ -105,7 +105,7 @@ h2 {
 	bottom:0;
 	color:#eee;
 	text-shadow:0 1px 0 #fff;
-	background:#333;
+	background:#1a1a1d;
 	border-radius:.125em;
 	outline:1px solid transparent; /* fix jagged edges in ff */
 
